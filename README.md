@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** with over **4 y
 ## 🧑‍💻 Key Projects & Achievements:
 Here are some of the projects I’m most proud of:
 
-- **[WizTecBD Projects](https://github.com/sazharul/wiztecbd-projects)**: Led the development of web applications for clients, optimizing database performance and ensuring responsive designs that work seamlessly across devices.
-- **[Task Manager App](https://github.com/sazharul/task-manager)**: A collaborative task management system built with **ReactJS** and **Node.js**, designed to streamline workflows and enhance team collaboration.
-- **[E-commerce Platform](https://github.com/sazharul/ecommerce-platform)**: A scalable e-commerce platform that integrates with **Stripe** for payments, enabling a secure and seamless shopping experience.
-- **[Client Project - Real-Time Chat App](https://github.com/sazharul/chat-app)**: A real-time chat application built using **Vue.js** and **Laravel** for fast, interactive messaging.
+- **[WizTecBD Projects]**: Led the development of web applications for clients, optimizing database performance and ensuring responsive designs that work seamlessly across devices.
+- **[Task Manager App]**: A collaborative task management system built with **ReactJS** and **Node.js**, designed to streamline workflows and enhance team collaboration.
+- **[E-commerce Platform]**: A scalable e-commerce platform that integrates with **Stripe** for payments, enabling a secure and seamless shopping experience.
+- **[Client Project - Real-Time Chat App]**: A real-time chat application built using **Vue.js** and **Laravel** for fast, interactive messaging.
 
 ## 🎨 Technologies I Work With:
 - **Languages**: PHP, JavaScript, TypeScript, Python, SQL
