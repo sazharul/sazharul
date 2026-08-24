@@ -1,191 +1,161 @@
-# 👋 Hi, I'm **MD. Azharul Islam (Sohan)**
+# Hi, I'm **MD. Azharul Islam (Sohan)**
 
-**Software Engineer | Laravel & PHP | Backend & Full-Stack Development | E-commerce | APIs & Integrations**
+**Software Engineer | Laravel & PHP | Backend & Full-Stack | E-commerce, APIs & Integrations**
 
-I’m a Software Engineer with **7+ years of professional experience** building and maintaining production web applications, business platforms, APIs, payment systems, e-commerce solutions, and third-party integrations.
+Software Engineer with **7+ years** building production web applications — Laravel backends, e-commerce platforms, payment systems, REST APIs, and third-party integrations.
 
-My strongest area is **backend engineering with Laravel/PHP**, while I also work across the stack with **React, Next.js, Vue.js, JavaScript, and TypeScript**.
+Strongest in **backend engineering with Laravel/PHP**; also work across the stack with **React, Next.js, Vue.js, JavaScript, and TypeScript**.
 
-I enjoy turning complex business requirements into reliable, maintainable software that works in real production environments.
-
----
-
-## 🚀 What I Do
-
-* 🏗️ Build production-grade **Laravel/PHP backend systems**
-* 🔌 Design and integrate **REST APIs and third-party services**
-* 🛒 Develop and maintain **e-commerce platforms and order workflows**
-* 💳 Integrate **payment gateways and financial APIs**
-* 🚚 Integrate **shipping and marketplace APIs**
-* 🗄️ Design and optimize **MySQL databases**
-* ⚡ Improve application and API performance
-* 📊 Build analytics and reporting systems
-* 🖥️ Develop full-stack applications with **React, Next.js and Vue.js**
-* 👥 Lead development work, review code, mentor developers, and establish implementation patterns
+**Portfolio:** [azharulislamsohan.com](https://azharulislamsohan.com) · **Location:** Dhaka, Bangladesh · **Open to remote roles** in the UK, EU, and USA
 
 ---
 
-## 💼 Professional Experience
+## Featured repositories
 
-### **Software Developer — Enorsia (Pakiza Group)**
+| Repository | What it shows |
+|------------|----------------|
+| [**ecommerce-analytics-platform**](https://github.com/sazharul/ecommerce-analytics-platform) | Laravel analytics showcase — event ingestion, Redis sessions, bot detection, funnel dashboards, **43+ tests**. **Clone locally** to explore (no public live demo). |
+| [**portfolio**](https://github.com/sazharul/portfolio) | Source for my portfolio site — Next.js, case studies, hiring-focused project pages. Live at [azharulislamsohan.com](https://azharulislamsohan.com). |
+
+> Most production work lives in **private client and employer repositories**. Public repos demonstrate architecture, code quality, and how I build — not the full volume of my day-to-day work.
+
+---
+
+## What I do
+
+* Build production-grade **Laravel/PHP** backend systems and REST APIs
+* Develop and maintain **e-commerce** platforms — orders, payments, shipping, marketplaces, returns
+* Integrate **payment gateways**, banking APIs, shipping carriers (DHL, Evri, Royal Mail), and marketplaces (Amazon, Debenhams, Spartoo)
+* Design and optimize **MySQL** schemas; use **Redis** and **ClickHouse** for caching and analytics
+* Build **analytics and reporting** systems (visitor tracking, conversion funnels, business dashboards)
+* Ship full-stack features with **React, Next.js, and Vue.js**
+* Lead implementation, review code, mentor developers, and establish patterns teams can follow
+
+---
+
+## Professional experience
+
+### Software Developer — Enorsia (Pakiza Group)
 
 **Jul 2025 – Present · Dhaka, Bangladesh**
 
-Working on a live **UK fashion e-commerce platform** within an engineering team.
+UK fashion e-commerce platform within a production engineering team.
 
-Key contributions include:
-
-* Integrated **DHL, Evri and Royal Mail** shipping APIs into production order workflows
-* Integrated marketplace channels including **Amazon, Debenhams and Spartoo**
-* Built a dynamic **product size-guide system**
-* Developed promotional and first-time-customer offer functionality
+* Integrated **DHL, Evri, and Royal Mail** shipping APIs into order workflows
+* Integrated marketplace channels: **Amazon, Debenhams, Spartoo**
+* Built dynamic **product size-guide** and promotional / first-time-customer offer systems
 * Implemented encrypted return-PDF processing
 * Migrated frontend and admin interfaces to **Vite**
-* Built the team's first **Tailwind CSS reference pages**, establishing reusable UI patterns
-* Contributed to an internal analytics platform using **ClickHouse and Redis**
-* Developed React/Next.js components for an AI-powered shopping assistant
-* Integrated **OpenAI API and LangGraph** for customer-facing shopping, order tracking and returns functionality
-* Diagnosed and resolved a production payment issue involving a missing tracking cookie that prevented checkout
+* Built the team's first **Tailwind CSS** reference pages and reusable UI patterns
+* Contributed to internal analytics using **ClickHouse and Redis**
+* Developed React/Next.js components for an **AI shopping assistant** (**OpenAI API, LangGraph**)
+* Diagnosed and fixed a production checkout issue caused by a missing tracking cookie
 
-### **Software Engineer — Wizard Software & Technology Bangladesh Ltd.**
+### Software Engineer — Wizard Software & Technology Bangladesh Ltd.
 
 **Sep 2022 – Jun 2025 · Dhaka, Bangladesh**
 
-Worked as a lead Laravel implementation engineer across insurance, retail and education projects.
+Lead Laravel implementation engineer across insurance, retail, and education projects.
 
-Key contributions include:
+* Led an **insurance management platform** — premium, age-based pricing, coverage, installments, riders, commissions
+* Built REST APIs consumed by a **Flutter** mobile app
+* Led backend for enterprise retail: **multi-warehouse inventory, POS, promotions, live chat**
+* Rebuilt performance-critical public APIs in **Node.js**
+* Designed database structures; delegated CRUD while owning architecture and business logic
+* Worked with clients and PMs to turn complex requirements into maintainable software
 
-* Led development of an **insurance management platform** with complex premium, age-based pricing, coverage, installment, rider and commission calculations
-* Built REST APIs consumed by a separate **Flutter mobile application**
-* Developed CMS, administration systems and payment gateway integrations
-* Led backend development for an enterprise retail platform with **multi-warehouse inventory, POS, promotions and live chat**
-* Rebuilt performance-critical public APIs using **Node.js**
-* Designed database structures and established backend implementation patterns
-* Delegated CRUD development while handling complex architecture and business logic
-* Resolved Git conflicts and supported team development workflows
-* Worked directly with clients and project managers to simplify complex business requirements into maintainable implementations
-
-### **Full-Stack Web Developer → Team Leader — HSBLCO Solution**
+### Full-Stack Web Developer → Team Leader — HSBLCO Solution
 
 **Jul 2019 – Aug 2022 · Dhaka, Bangladesh**
 
-Promoted to **Team Leader within approximately six months** based on ownership, delivery reliability and technical contribution.
+Promoted to **Team Leader** within ~6 months based on delivery and technical ownership.
 
-Key contributions include:
-
-* Built **EpayMaker**, a centralized payment gateway platform for a US client
-* Integrated banking and payment APIs, transaction reporting and role-based access control
-* Led development of **Brands Zone Global**, an e-commerce platform built from scratch
-* Recovered delayed client projects by diagnosing unresolved technical issues and delivering reliable fixes
-* Led and mentored a team of **5 interns**
-* Handled task assignment, code reviews, debugging and client communication
-* Worked across healthcare, education, legal and e-commerce projects
+* Built **EpayMaker** — centralized payment gateway for a US client (banking APIs, reporting, RBAC)
+* Led **Brands Zone Global** e-commerce platform from scratch
+* Recovered delayed client projects through root-cause debugging and reliable fixes
+* Led and mentored **5 interns** — tasks, code review, client communication
+* Delivered across healthcare, education, legal, and e-commerce domains
 
 ---
 
-## 🧰 Core Technology Stack
+## Core technology stack
 
-### Backend
+**Backend:** PHP · Laravel · REST APIs · Node.js
 
-`PHP` `Laravel` `REST APIs` `Node.js` `Python` `Django` `FastAPI`
+**Frontend:** JavaScript · TypeScript · React · Next.js · Vue.js · HTML · CSS · Tailwind CSS · Bootstrap
 
-### Frontend
+**Data:** MySQL · MariaDB · PostgreSQL · Redis · ClickHouse
 
-`JavaScript` `TypeScript` `React` `Next.js` `Vue.js` `HTML` `CSS` `Tailwind CSS` `Bootstrap`
+**Integrations:** Payment gateways · Banking APIs · Shipping APIs · Marketplace APIs · OpenAI API
 
-### Databases & Data
+**Tools:** Git · GitHub · Vite · Composer · Nginx · PM2 · Docker
 
-`MySQL` `MariaDB` `PostgreSQL` `Redis` `ClickHouse`
-
-### APIs & Integrations
-
-`REST APIs` `Payment Gateways` `Banking APIs` `Shipping APIs` `Marketplace APIs` `OpenAI API`
-
-### Development Tools
-
-`Git` `GitHub` `Vite` `Webpack` `Composer` `Nginx` `PM2` `Docker`
+**Also familiar with:** Python · Django · FastAPI
 
 ---
 
-## 🏗️ Areas of Experience
+## Areas of experience
 
-**Backend Engineering**
-
-Laravel applications, business logic, REST APIs, authentication, authorization, database architecture and integrations.
-
-**E-commerce Engineering**
-
-Product systems, orders, payments, shipping, marketplaces, promotions, returns, inventory and customer workflows.
-
-**API & Integration Engineering**
-
-Third-party APIs, payment services, shipping carriers, marketplaces, banking systems and internal services.
-
-**Performance Engineering**
-
-Database optimization, API optimization, caching with Redis, query optimization and production troubleshooting.
-
-**Full-Stack Development**
-
-Building complete features across Laravel/PHP backends and React, Next.js or Vue.js frontends.
-
-**Engineering Leadership**
-
-Code review, technical decision-making, task delegation, mentoring, debugging and establishing development patterns.
+| Area | Focus |
+|------|--------|
+| Backend | Laravel apps, business logic, REST APIs, auth, database design, integrations |
+| E-commerce | Products, orders, payments, shipping, marketplaces, promotions, returns, inventory |
+| APIs & integrations | Payments, carriers, marketplaces, banking, internal services |
+| Performance | Query optimization, Redis caching, API tuning, production debugging |
+| Full-stack | Laravel backends with React, Next.js, or Vue.js frontends |
+| Leadership | Code review, technical decisions, mentoring, implementation patterns |
 
 ---
 
-## 📌 Selected Work
+## Selected work (career highlights)
 
-Some areas I've worked on throughout my professional career:
-
-* 🛒 Production UK fashion e-commerce platform
-* 💳 Centralized payment gateway platform
-* 🏦 Insurance management and premium calculation platform
-* 🏪 Enterprise retail and POS platform
-* 📦 Shipping and marketplace integrations
-* 📊 Visitor analytics and conversion tracking platform
-* 🤖 AI-powered shopping assistant
-* 🔐 Payment, authentication and role-based access systems
-
-> Some production projects cannot be publicly shared because they belong to employers or clients. My public repositories therefore focus on demonstrating my engineering approach, architecture and technical skills.
+* Production **UK fashion e-commerce** platform (current)
+* **US client payment gateway** (EpayMaker)
+* **Insurance** management and premium calculation platform
+* **Enterprise retail** and POS with multi-warehouse inventory
+* **Shipping and marketplace** integrations (DHL, Evri, Royal Mail, Amazon, etc.)
+* **Visitor analytics** and conversion tracking (open-source showcase on GitHub)
+* **AI shopping assistant** (OpenAI, LangGraph)
+* **Inventory ERP customization** on commercial product base (client work — private)
 
 ---
 
-## 🎯 Currently Open to Opportunities
+## Open to opportunities
 
-I’m interested in working with **international engineering teams and clients**, particularly in:
+Interested in **international engineering teams and clients**, especially:
 
-* 🇩🇪 Germany
-* 🇪🇺 European Union
-* 🌍 Remote-first companies
-* 💼 Full-time Software Engineer roles
-* 🤝 Contract and project-based development
-* 🏗️ Backend and Full-Stack engineering projects
+* 🇬🇧 **United Kingdom**
+* 🇪🇺 **European Union** (Germany and remote-first EU companies)
+* 🇺🇸 **United States** (remote contract and full-time)
+* 🌍 **Remote-first** companies worldwide
 
-**Interested in hiring me or working together?**
+**Roles:** Senior Software Engineer · Backend Engineer · Full-Stack Engineer (Laravel-focused)
 
-Feel free to reach out through LinkedIn or email.
+**Engagement:** Full-time · Contract · Project-based
 
----
-
-## 📫 Connect With Me
-
-* **Website:** [azharulislamsohan.com](https://azharulislamsohan.com/)
-* **GitHub:** [github.com/sazharul](https://github.com/sazharul)
-* **LinkedIn:** [linkedin.com/in/azharul-islam-sohan](https://www.linkedin.com/in/azharul-islam-sohan/)
-* **Stack Overflow:** [stackoverflow.com/users/20545050/azharul-islam-sohan](https://stackoverflow.com/users/20545050/azharul-islam-sohan)
-* **X:** [x.com/azharul_i_sohan](https://x.com/azharul_i_sohan)
-* **Email:** `ahamedsohan592@gmail.com`
+Reach out via [LinkedIn](https://www.linkedin.com/in/azharul-islam-sohan/) or email.
 
 ---
 
-### 💡 Engineering Philosophy
+## Connect
+
+| | |
+|---|---|
+| **Portfolio** | [azharulislamsohan.com](https://azharulislamsohan.com) |
+| **GitHub** | [github.com/sazharul](https://github.com/sazharul) |
+| **LinkedIn** | [linkedin.com/in/azharul-islam-sohan](https://www.linkedin.com/in/azharul-islam-sohan/) |
+| **Stack Overflow** | [stackoverflow.com/users/20545050/azharul-islam-sohan](https://stackoverflow.com/users/20545050/azharul-islam-sohan) |
+| **X** | [x.com/azharul_i_sohan](https://x.com/azharul_i_sohan) |
+| **Email** | `ahamedsohan592@gmail.com` |
+
+---
+
+### Engineering philosophy
 
 > **Build software that solves the business problem, not just the technical requirement.**
 
-I believe good engineering is about understanding the problem, choosing the right level of complexity, and delivering software that is reliable, maintainable and useful in production.
+Good engineering means understanding the problem, choosing the right complexity, and shipping software that is reliable, maintainable, and useful in production.
 
 ---
 
-⭐ **If you find something useful in my repositories, feel free to explore, star or contribute.**
+If something in my repositories is useful, feel free to explore, star, or contribute.
