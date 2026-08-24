@@ -171,18 +171,12 @@ Feel free to reach out through LinkedIn or email.
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/azharul-islam-sohan](https://www.linkedin.com/in/azharul-islam-sohan)
+* **Website:** [azharulislamsohan.com](https://azharulislamsohan.com/)
 * **GitHub:** [github.com/sazharul](https://github.com/sazharul)
+* **LinkedIn:** [linkedin.com/in/azharul-islam-sohan](https://www.linkedin.com/in/azharul-islam-sohan/)
+* **Stack Overflow:** [stackoverflow.com/users/20545050/azharul-islam-sohan](https://stackoverflow.com/users/20545050/azharul-islam-sohan)
+* **X:** [x.com/azharul_i_sohan](https://x.com/azharul_i_sohan)
 * **Email:** `ahamedsohan592@gmail.com`
-* **Website:** [sazharul.dev](https://sazharul.dev)
-
----
-
-## 📊 GitHub Stats
-
-![Azharul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazharul\&show_icons=true\&count_private=true\&hide=prs\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazharul\&layout=compact\&theme=dark)
 
 ---
 
