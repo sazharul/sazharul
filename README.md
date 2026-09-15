@@ -8,6 +8,23 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
 
 **Portfolio:** [azharulislamsohan.com](https://azharulislamsohan.com) · **Location:** Dhaka, Bangladesh · **Open to remote roles** in the UK, EU, and USA
 
+**Portfolio demos · Not production client code**
+
+---
+
+## About my public demos
+
+All repositories labeled **demo** are **portfolio showcases for hiring** — built to demonstrate my skills, architecture, and code quality using the **same technologies** as my production work.
+
+They are **not** the source code of any client, employer, or live website. Production systems remain private. Fictional brands and synthetic data are used throughout.
+
+| Label | Meaning |
+|-------|---------|
+| **Live** | Production site I contributed to (code not published) |
+| **Open-source demo** | Independent repo you can clone locally for review — skills showcase, not client source code |
+
+Full notice: [azharulislamsohan.com/legal](https://azharulislamsohan.com/legal)
+
 ---
 
 ## Featured repositories
@@ -22,11 +39,11 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
   <tbody>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/matrimony-platform-demo">Matrimony Platform</a></strong></td>
-      <td>Full-stack matchmaking — Laravel 12 + Next.js 16, real-time chat, WebRTC calls, face verification, subscriptions. <strong>Live:</strong> <a href="https://mybouma.com/">mybouma.com</a></td>
+      <td>Full-stack matchmaking — Laravel 12 + Next.js 16. <strong>Live:</strong> <a href="https://mybouma.com/">mybouma.com</a> · <strong>Demo:</strong> MatriConnect (skills showcase, not client source code)</td>
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/ai-shopping-assistant-demo">AI Shopping Assistant</a></strong></td>
-      <td>LangGraph agent with RAG product search, CLIP image search, and SSE streaming chat widget. <strong>Live:</strong> <a href="https://enorsia.com/">enorsia.com</a></td>
+      <td>LangGraph agent with RAG product search and SSE chat widget. <strong>Live:</strong> <a href="https://enorsia.com/">enorsia.com</a> · <strong>Demo:</strong> StyleHub (not client source code)</td>
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/ecommerce-analytics-platform">E-commerce Analytics</a></strong></td>
@@ -42,16 +59,16 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/insurance-platform-demo">Insurance Platform</a></strong></td>
-      <td>Laravel premium calculator engine — 12+ insurance products, admin tariff CMS, Flutter REST APIs. <strong>Live:</strong> <a href="https://www.eastlandinsurance.com/">eastlandinsurance.com</a></td>
+      <td>Laravel premium calculator engine — 12+ insurance products. <strong>Live:</strong> <a href="https://www.eastlandinsurance.com/">eastlandinsurance.com</a> · <strong>Demo:</strong> CoverSure (not client source code)</td>
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/enterprise-retail-demo">Enterprise Retail</a></strong></td>
-      <td>Laravel + React + Node.js catalog API — multi-warehouse e-commerce, Flutter APIs. <strong>Live:</strong> <a href="https://perfectobd.com/">perfectobd.com</a></td>
+      <td>Laravel + React + Node.js catalog API. <strong>Live:</strong> <a href="https://perfectobd.com/">perfectobd.com</a> · <strong>Demo:</strong> GlowCart (not client source code)</td>
     </tr>
   </tbody>
 </table>
 
-> Most production work lives in **private client and employer repositories**. Public repos demonstrate architecture, code quality, and how I build — not the full volume of my day-to-day work.
+> Most production work lives in **private client and employer repositories**. Public **demo** repos are independent skill showcases — same stack and patterns, **not** published client or employer source code.
 
 ---
 
