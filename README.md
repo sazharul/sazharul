@@ -40,6 +40,10 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/reverb-platform-demo">Real-time Event Platform</a></strong></td>
       <td>Multi-tenant Laravel Reverb SaaS — HMAC event API, channel ACLs, subscription plans, Pulse monitoring. <strong>Clone locally</strong> with <code>docker compose up</code>.</td>
     </tr>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/insurance-platform-demo">Insurance Platform</a></strong></td>
+      <td>Laravel premium calculator engine — 12+ insurance products, admin tariff CMS, Flutter REST APIs. <strong>Live:</strong> <a href="https://www.eastlandinsurance.com/">eastlandinsurance.com</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -146,6 +150,7 @@ Promoted to **Team Leader** within ~6 months based on delivery and technical own
 * **Visitor analytics** and conversion tracking (open-source showcase on GitHub)
 * **AI shopping assistant** — LangGraph agent, RAG product search, CLIP image search ([enorsia.com](https://enorsia.com/) · [open-source demo](https://github.com/sazharul/ai-shopping-assistant-demo))
 * **Real-time event platform** — multi-tenant Laravel Reverb SaaS with HMAC-signed event API ([open-source demo](https://github.com/sazharul/reverb-platform-demo))
+* **Insurance management system** — 12+ premium calculators, admin tariff CMS, Flutter REST APIs ([eastlandinsurance.com](https://www.eastlandinsurance.com/) · [open-source demo](https://github.com/sazharul/insurance-platform-demo))
 * **Inventory ERP customization** on commercial product base (client work — private)
 
 ---
