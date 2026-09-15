@@ -14,10 +14,10 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
 
 | Repository | What it shows |
 |------------|----------------|
-| [**matrimony-platform-demo**](https://github.com/sazharul/matrimony-platform-demo) | Full-stack matrimony platform — Laravel 12 + Next.js 16, real-time chat (Reverb), WebRTC calls, face verification, subscriptions. **Production:** [mybouma.com](https://mybouma.com/) · **Clone & run** with `docker compose up`. |
-| [**ai-shopping-assistant-demo**](https://github.com/sazharul/ai-shopping-assistant-demo) | AI shopping assistant — FastAPI + LangGraph, hybrid FAISS + BM25 RAG, CLIP image search, SSE streaming React widget. **Production:** [enorsia.com](https://enorsia.com/) · **Clone & run** with `docker compose up`. |
-| [**ecommerce-analytics-platform**](https://github.com/sazharul/ecommerce-analytics-platform) | Laravel analytics showcase — event ingestion, Redis sessions, bot detection, funnel dashboards, **43+ tests**. **Clone locally** to explore (no public live demo). |
-| [**portfolio**](https://github.com/sazharul/portfolio) | Source for my portfolio site — Next.js, case studies, hiring-focused project pages. Live at [azharulislamsohan.com](https://azharulislamsohan.com). |
+| [**Matrimony Platform**](https://github.com/sazharul/matrimony-platform-demo) | Full-stack matchmaking — Laravel 12 + Next.js 16, real-time chat, WebRTC calls, face verification, subscriptions. **Live:** [mybouma.com](https://mybouma.com/) |
+| [**AI Shopping Assistant**](https://github.com/sazharul/ai-shopping-assistant-demo) | LangGraph agent with RAG product search, CLIP image search, and SSE streaming chat widget. **Live:** [enorsia.com](https://enorsia.com/) |
+| [**E-commerce Analytics**](https://github.com/sazharul/ecommerce-analytics-platform) | Event tracking, Redis sessions, bot detection, funnel dashboards — **43+ tests**. Clone locally to explore. |
+| [**Portfolio**](https://github.com/sazharul/portfolio) | Next.js portfolio site with case studies and project pages. **Live:** [azharulislamsohan.com](https://azharulislamsohan.com) |
 
 > Most production work lives in **private client and employer repositories**. Public repos demonstrate architecture, code quality, and how I build — not the full volume of my day-to-day work.
 
