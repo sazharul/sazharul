@@ -12,12 +12,32 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
 
 ## Featured repositories
 
-| Repository | What it shows |
-|------------|----------------|
-| [**Matrimony Platform**](https://github.com/sazharul/matrimony-platform-demo) | Full-stack matchmaking — Laravel 12 + Next.js 16, real-time chat, WebRTC calls, face verification, subscriptions. **Live:** [mybouma.com](https://mybouma.com/) |
-| [**AI Shopping Assistant**](https://github.com/sazharul/ai-shopping-assistant-demo) | LangGraph agent with RAG product search, CLIP image search, and SSE streaming chat widget. **Live:** [enorsia.com](https://enorsia.com/) |
-| [**E-commerce Analytics**](https://github.com/sazharul/ecommerce-analytics-platform) | Event tracking, Redis sessions, bot detection, funnel dashboards — **43+ tests**. Clone locally to explore. |
-| [**Portfolio**](https://github.com/sazharul/portfolio) | Next.js portfolio site with case studies and project pages. **Live:** [azharulislamsohan.com](https://azharulislamsohan.com) |
+<table>
+  <thead>
+    <tr>
+      <th width="240">Repository</th>
+      <th>What it shows</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/matrimony-platform-demo">Matrimony Platform</a></strong></td>
+      <td>Full-stack matchmaking — Laravel 12 + Next.js 16, real-time chat, WebRTC calls, face verification, subscriptions. <strong>Live:</strong> <a href="https://mybouma.com/">mybouma.com</a></td>
+    </tr>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/ai-shopping-assistant-demo">AI Shopping Assistant</a></strong></td>
+      <td>LangGraph agent with RAG product search, CLIP image search, and SSE streaming chat widget. <strong>Live:</strong> <a href="https://enorsia.com/">enorsia.com</a></td>
+    </tr>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/ecommerce-analytics-platform">E-commerce Analytics</a></strong></td>
+      <td>Event tracking, Redis sessions, bot detection, funnel dashboards — <strong>43+ tests</strong>. Clone locally to explore.</td>
+    </tr>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/portfolio">Portfolio</a></strong></td>
+      <td>Next.js portfolio site with case studies and project pages. <strong>Live:</strong> <a href="https://azharulislamsohan.com">azharulislamsohan.com</a></td>
+    </tr>
+  </tbody>
+</table>
 
 > Most production work lives in **private client and employer repositories**. Public repos demonstrate architecture, code quality, and how I build — not the full volume of my day-to-day work.
 
