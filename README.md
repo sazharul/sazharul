@@ -47,7 +47,7 @@ Full notice: [azharulislamsohan.com/legal](https://azharulislamsohan.com/legal)
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/ecommerce-analytics-platform">E-commerce Analytics</a></strong></td>
-      <td>Event tracking, Redis sessions, bot detection, funnel dashboards — <strong>43+ tests</strong>. Clone locally to explore.</td>
+      <td>Event tracking, Redis sessions, bot detection, funnel dashboards — <strong>43+ tests</strong>. <strong>Demo:</strong> original portfolio showcase (not client source code)</td>
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/portfolio">Portfolio</a></strong></td>
@@ -55,7 +55,7 @@ Full notice: [azharulislamsohan.com/legal](https://azharulislamsohan.com/legal)
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/reverb-platform-demo">Real-time Event Platform</a></strong></td>
-      <td>Multi-tenant Laravel Reverb SaaS — HMAC event API, channel ACLs, subscription plans, Pulse monitoring. <strong>Clone locally</strong> with <code>docker compose up</code>.</td>
+      <td>Multi-tenant Laravel Reverb SaaS — HMAC event API, channel ACLs, subscription plans. <strong>Demo:</strong> PulseWire (original portfolio showcase, not client source code)</td>
     </tr>
     <tr>
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/insurance-platform-demo">Insurance Platform</a></strong></td>
