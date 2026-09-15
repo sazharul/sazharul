@@ -149,12 +149,12 @@ Promoted to **Team Leader** within ~6 months based on delivery and technical own
 * **Matrimony / matchmaking platform** — profiles, compatibility matching, real-time chat, WebRTC, subscriptions ([mybouma.com](https://mybouma.com/))
 * **US client payment gateway** (EpayMaker)
 * **Insurance** management and premium calculation platform
-* **Enterprise retail** and POS with multi-warehouse inventory
 * **Shipping and marketplace** integrations (DHL, Evri, Royal Mail, Amazon, etc.)
 * **Visitor analytics** and conversion tracking (open-source showcase on GitHub)
 * **AI shopping assistant** — LangGraph agent, RAG product search, CLIP image search ([enorsia.com](https://enorsia.com/) · [open-source demo](https://github.com/sazharul/ai-shopping-assistant-demo))
 * **Real-time event platform** — multi-tenant Laravel Reverb SaaS with HMAC-signed event API ([open-source demo](https://github.com/sazharul/reverb-platform-demo))
 * **Insurance management system** — 12+ premium calculators, admin tariff CMS, Flutter REST APIs ([eastlandinsurance.com](https://www.eastlandinsurance.com/) · [open-source demo](https://github.com/sazharul/insurance-platform-demo))
+* **Enterprise retail platform** — Laravel + React storefront, Node.js catalog read API, multi-warehouse inventory, Flutter REST APIs ([perfectobd.com](https://perfectobd.com/) · [open-source demo](https://github.com/sazharul/enterprise-retail-demo))
 * **Inventory ERP customization** on commercial product base (client work — private)
 
 ---
