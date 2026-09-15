@@ -15,6 +15,7 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
 | Repository | What it shows |
 |------------|----------------|
 | [**matrimony-platform-demo**](https://github.com/sazharul/matrimony-platform-demo) | Full-stack matrimony platform — Laravel 12 + Next.js 16, real-time chat (Reverb), WebRTC calls, face verification, subscriptions. **Production:** [mybouma.com](https://mybouma.com/) · **Clone & run** with `docker compose up`. |
+| [**ai-shopping-assistant-demo**](https://github.com/sazharul/ai-shopping-assistant-demo) | AI shopping assistant — FastAPI + LangGraph, hybrid FAISS + BM25 RAG, CLIP image search, SSE streaming React widget. **Production:** [enorsia.com](https://enorsia.com/) · **Clone & run** with `docker compose up`. |
 | [**ecommerce-analytics-platform**](https://github.com/sazharul/ecommerce-analytics-platform) | Laravel analytics showcase — event ingestion, Redis sessions, bot detection, funnel dashboards, **43+ tests**. **Clone locally** to explore (no public live demo). |
 | [**portfolio**](https://github.com/sazharul/portfolio) | Source for my portfolio site — Next.js, case studies, hiring-focused project pages. Live at [azharulislamsohan.com](https://azharulislamsohan.com). |
 
@@ -30,6 +31,7 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
 * Design and optimize **MySQL** schemas; use **Redis** and **ClickHouse** for caching and analytics
 * Build **analytics and reporting** systems (visitor tracking, conversion funnels, business dashboards)
 * Ship full-stack features with **React, Next.js, and Vue.js**
+* Build **AI-powered features** — LangGraph agents, RAG pipelines, and embeddable chat widgets
 * Build **real-time systems** — WebSocket chat, WebRTC calls, live notifications
 * Lead implementation, review code, mentor developers, and establish patterns teams can follow
 
@@ -88,7 +90,7 @@ Promoted to **Team Leader** within ~6 months based on delivery and technical own
 
 **Data:** MySQL · MariaDB · PostgreSQL · Redis · ClickHouse
 
-**Integrations:** Payment gateways · Banking APIs · Shipping APIs · Marketplace APIs · OpenAI API · WebRTC · Laravel Reverb
+**Integrations:** Payment gateways · Banking APIs · Shipping APIs · Marketplace APIs · OpenAI API · LangGraph · WebRTC · Laravel Reverb
 
 **Tools:** Git · GitHub · Vite · Composer · Nginx · PM2 · Docker
 
@@ -118,7 +120,7 @@ Promoted to **Team Leader** within ~6 months based on delivery and technical own
 * **Enterprise retail** and POS with multi-warehouse inventory
 * **Shipping and marketplace** integrations (DHL, Evri, Royal Mail, Amazon, etc.)
 * **Visitor analytics** and conversion tracking (open-source showcase on GitHub)
-* **AI shopping assistant** (OpenAI, LangGraph)
+* **AI shopping assistant** — LangGraph agent, RAG product search, CLIP image search ([enorsia.com](https://enorsia.com/) · [open-source demo](https://github.com/sazharul/ai-shopping-assistant-demo))
 * **Inventory ERP customization** on commercial product base (client work — private)
 
 ---
