@@ -44,6 +44,10 @@ Strongest in **backend engineering with Laravel/PHP**; also work across the stac
       <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/insurance-platform-demo">Insurance Platform</a></strong></td>
       <td>Laravel premium calculator engine — 12+ insurance products, admin tariff CMS, Flutter REST APIs. <strong>Live:</strong> <a href="https://www.eastlandinsurance.com/">eastlandinsurance.com</a></td>
     </tr>
+    <tr>
+      <td valign="top" style="white-space: nowrap;"><strong><a href="https://github.com/sazharul/enterprise-retail-demo">Enterprise Retail</a></strong></td>
+      <td>Laravel + React + Node.js catalog API — multi-warehouse e-commerce, Flutter APIs. <strong>Live:</strong> <a href="https://perfectobd.com/">perfectobd.com</a></td>
+    </tr>
   </tbody>
 </table>
 
